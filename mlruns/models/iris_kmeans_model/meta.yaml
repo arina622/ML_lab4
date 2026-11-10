@@ -1,0 +1,8 @@
+aliases:
+  champion: '1'
+creation_timestamp: 1794289082945
+deployment_job_id: null
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1794289294947
+name: iris_kmeans_model

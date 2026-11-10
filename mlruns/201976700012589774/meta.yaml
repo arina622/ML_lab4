@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/201976700012589774
+creation_time: 1794286999267
+experiment_id: '201976700012589774'
+last_update_time: 1794286999267
+lifecycle_stage: active
+name: iris_kmeans

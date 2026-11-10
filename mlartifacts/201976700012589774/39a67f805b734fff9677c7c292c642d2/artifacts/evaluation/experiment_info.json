@@ -1,0 +1,6 @@
+{
+    "dataset": "Iris",
+    "algorithm": "KMeans",
+    "n_clusters": 5,
+    "validation_silhouette": 0.28829249357984116
+}

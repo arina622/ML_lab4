@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923942013687351414/00323d1f0e7647e4a93fd9e9d79668a4/artifacts
+end_time: 1794297557553
+entry_point_name: ''
+experiment_id: '923942013687351414'
+lifecycle_stage: active
+run_id: 00323d1f0e7647e4a93fd9e9d79668a4
+run_name: final_test_evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794297557353
+status: 3
+tags: []
+user_id: arina

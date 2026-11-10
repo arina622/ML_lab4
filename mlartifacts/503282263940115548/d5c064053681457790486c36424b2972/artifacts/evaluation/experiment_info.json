@@ -1,0 +1,5 @@
+{
+    "algorithm": "KMeans",
+    "n_clusters": 4,
+    "validation_silhouette": 0.3260350560755353
+}

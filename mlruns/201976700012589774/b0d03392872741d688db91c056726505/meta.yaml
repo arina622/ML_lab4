@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/201976700012589774/b0d03392872741d688db91c056726505/artifacts
+end_time: 1794296205637
+entry_point_name: ''
+experiment_id: '201976700012589774'
+lifecycle_stage: active
+run_id: b0d03392872741d688db91c056726505
+run_name: kmeans_k4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794296205377
+status: 3
+tags: []
+user_id: arina
